@@ -95,3 +95,89 @@
 .img{
     padding-left: 22px;
 }
+
+/* Block number 2 */
+
+.background_bl2{
+    background: #26335D;
+    width: 1440px;
+    height: 768px;
+    font-family: Montserrat;
+}
+.container_bl2{
+    display: flex;
+    width: 1050px;
+    height: 768px;
+    padding: 112px 0px;
+}
+.text_bl2{
+    padding-left: 195px;
+    padding-top:  112px;
+    color: white;
+}
+.pract{
+    font-size: 14px;
+    color: #8D5CF6;
+}
+.our{
+   font-size: 40px;
+}
+.prob{
+    font-size: 14px;
+}
+.marg{
+    margin-top: 10px;
+}
+.row_bl2{
+    flex-direction: row;
+    display: flex;
+}
+.card1{
+    margin: 70px 0px;
+    margin-left: 199px;
+    background-color: white;
+    width: 180px;
+    height: 242px;
+    padding: 35px 40px;
+}
+.img_bl2{
+    border-radius: 10px;
+}
+.cont{
+    font-size: 16px;
+    color: #252B42;
+    margin: 20px 0px;
+}
+.annot{
+    font-size: 14px;
+    color: #737373;
+    margin-top: 20px;
+    line-height: 20px;
+}
+.card2{
+    margin-top: 118px;
+    margin-left: 39.5px;
+    width: 180px;
+    height: 242px;
+    padding: 35px 40px;
+    background-color: white;
+}
+.card3{
+    margin-top: 70px;
+    margin-left: 40.5px;
+    padding: 35px 40px;
+    width: 180px;
+    height: 242px;
+    background: #8D5CF6;
+}
+.card4{
+    margin-top: 118px;
+    margin-left: 40px;
+    padding: 35px 40px;
+    width: 180px;
+    height: 242px;
+    background-color: white;
+}
+#white{
+    color: white;
+}
