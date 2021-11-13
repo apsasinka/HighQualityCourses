@@ -1,1 +1,97 @@
-@import url("zero.css")
+@import url("zero.css");
+
+.header{
+    background: #8D5CF6;
+    width: 1440px;
+    height: 825px;
+    flex-wrap: wrap;
+    font-family: Montserrat;
+}
+.container{
+    display: flex;
+}
+.header_title{
+    margin-top: 30px;
+    margin-left: 195px;
+    color: white;
+    font-size: 24px;
+}
+.header_menu{
+    margin-top: 33px;
+    margin-left: 83px;
+    margin-right: 21px;
+
+}
+.header_log{
+    flex-direction: row;
+    margin-top: 19px;
+    margin-left: 240px;
+    padding-right: 45px;
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 320px;
+    color: white;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    height: 74px;
+}
+.text{
+    margin-left: 195px;
+    margin-top: 25px;
+    color: #737373;
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 24px;
+}
+.images{
+    margin-top: 25px;
+    margin-left: 516.5px;
+}
+.but{
+    background:  #FF7B52;
+    width: 137px;
+    height: 52px;
+    padding: 15px 25px;
+    padding-right: 52px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 70px;
+    font-size: 14px;
+}
+.link{
+    color:white;
+    margin-left: 21px;
+    font-size: 14px;
+}
+.main{
+    font-size: 58px;
+    line-height: 80px;
+    letter-spacing: 0,2px;
+}
+.main2{
+    font-size: 20px;
+    margin-top: 40px;
+}
+.but2{
+    background: #FF7B52;
+    padding: 15px 40px;
+    border-radius: 5px;
+    color: white;
+    margin: 40px 10px;
+}
+.but3{
+    background: #8D5CF6;
+    border: 1px solid #FF7B52;
+    color: white;
+    border-radius: 5px;
+    padding: 15px 40px;
+}
+.img{
+    padding-left: 22px;
+}
