@@ -139,6 +139,7 @@
     width: 180px;
     height: 242px;
     padding: 35px 40px;
+    border-radius: 5px;
 }
 .img_bl2{
     border-radius: 10px;
@@ -161,6 +162,7 @@
     height: 242px;
     padding: 35px 40px;
     background-color: white;
+    border-radius: 5px;
 }
 .card3{
     margin-top: 70px;
@@ -169,6 +171,7 @@
     width: 180px;
     height: 242px;
     background: #8D5CF6;
+    border-radius: 5px;
 }
 .card4{
     margin-top: 118px;
@@ -177,7 +180,17 @@
     width: 180px;
     height: 242px;
     background-color: white;
+    border-radius: 5px;
 }
 #white{
     color: white;
+}
+
+/* Block number 3 */
+
+.background_bl3{
+    background-color: #26335D;
+    width: 1440px;
+    height: 1096px;
+    font-family: Montserrat;
 }
