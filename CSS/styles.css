@@ -194,3 +194,98 @@
     height: 1096px;
     font-family: Montserrat;
 }
+.container_bl3{
+    display: flex;
+    flex-direction: column;
+}
+.row_bl3{
+    flex-direction: row;
+    display: flex;
+    margin-top: 112px;
+    margin-left: 195.5px;
+}
+.col1_bl3{
+    display: flex;
+    width: 238px;
+    height: 602px;
+    background-color: white;
+    flex-direction: column;
+}
+.fixed_bl3{
+    width: 238px;
+    height: 300px;
+    background-image: url("ascess/col1.png");
+    background-color: #8D5CF6;
+}
+.sale_bl3{
+    margin: 20px 20px;
+    padding: 0px 10px;
+    margin-right: 161px;
+    background-color: #E74040;
+    border-radius: 3px;
+}
+.prod_bl3{
+    display: flex;
+    width: 140px;
+    height: 40px;
+    flex-direction: row;
+    margin-top: 192px;
+    margin-left: 49px;
+}
+.img_bl3{
+    margin-right: 10px;
+    border-radius: 44.7857;
+}
+.title1_bl3{
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+    margin-left: 25px;
+    font-size: 14px;
+    width: 182px;
+    height: 26px;
+    color: #8D5CF6;
+}
+.valuation{
+    display: flex;
+    flex-direction: row;
+    background-color: #26335D;
+    margin-left: 64px;
+    width: 50px;
+    height: 20px;
+    border-radius: 26px;
+    padding: 5px;
+    font-size: 12px;
+    margin-top: -10px;
+}
+.txt1_bl3{
+    margin: 0px 5px;
+    padding-top: 5px;
+    color: white;
+}
+.name1_bl3{
+    color: #252B42;
+    font-size: 16px;
+    margin: 11px 25px;
+}
+.annot_bl3{
+    margin-left: 25px;
+    color: #737373;
+    font-size: 14px;
+}
+.sold1_bl3{
+    display: flex;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.sales1_bl3{
+    margin-left: 10px;
+    color: #737373;
+    font-size: 14px;
+}
+.prise_bl3{
+    display: flex;
+    flex-direction: row;
+    margin: 25px 10px;
+    padding: 5px 3px;
+}
