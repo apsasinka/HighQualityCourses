@@ -62,7 +62,8 @@
     margin-left: 516.5px;
 }
 .but{
-    background:  #FF7B52;
+    background: url("../ascess/Vector.png") 95px 20px no-repeat;
+    background-color:  #FF7B52;
     width: 137px;
     height: 52px;
     padding: 15px 25px;
