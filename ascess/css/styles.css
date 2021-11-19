@@ -43,6 +43,7 @@
     align-items: center;
     margin-top: 320px;
     color: white;
+    text-align: center;
 }
 .footer{
     display: flex;
@@ -56,6 +57,7 @@
     font-family: Montserrat;
     font-size: 14px;
     line-height: 24px;
+    text-align: center;
 }
 .images{
     margin-top: 25px;
