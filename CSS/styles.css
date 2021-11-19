@@ -16,12 +16,16 @@
     color: white;
     font-size: 24px;
     font-weight: 700;
+    letter-spacing: 0.1px;
+    line-height: 32px;
 }
 .header_menu{
     margin-top: 33px;
     margin-left: 83px;
     margin-right: 21px;
     font-weight: 700;
+    letter-spacing: 0.1px;
+    line-height: 24px;
 }
 .header_log{
     flex-direction: row;
@@ -29,6 +33,8 @@
     margin-left: 240px;
     padding-right: 45px;
     font-weight: 700;
+    letter-spacing: 0.2px;
+    line-height: 22px;
 }
 .center{
     display: flex;
@@ -77,11 +83,15 @@
     line-height: 80px;
     letter-spacing: 0,2px;
     font-weight: 700;
+    line-height: 80px;
+    letter-spacing: 0.2px;
 }
 .main2{
     font-size: 20px;
     margin-top: 40px;
     font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.2px;
 }
 .but2{
     background: #FF7B52;
@@ -90,6 +100,8 @@
     color: white;
     margin: 40px 10px;
     font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0.2px;
 }
 .but3{
     background: #8D5CF6;
@@ -98,6 +110,8 @@
     border-radius: 5px;
     padding: 15px 40px;
     font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0.2px;
 }
 .img{
     padding-left: 22px;
@@ -126,13 +140,20 @@
     font-size: 14px;
     color: #8D5CF6;
     font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.2px;
 }
 .our{
    font-size: 40px;
    font-weight: 700;
+   line-height: 50px;
+   letter-spacing: 0.2px;
+   line-height: 20px;
 }
 .prob{
     font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
 }
 .marg{
     margin-top: 10px;
@@ -158,12 +179,15 @@
     color: #252B42;
     margin: 20px 0px;
     font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.1px;
 }
 .annot{
     font-size: 14px;
     color: #737373;
     margin-top: 20px;
     line-height: 20px;
+    letter-spacing: 0.2px;
 }
 .card2{
     margin-top: 118px;
@@ -234,6 +258,8 @@
     background-color: #E74040;
     border-radius: 3px;
     font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.2px;
 }
 .prod_bl3{
     display: flex;
@@ -258,6 +284,8 @@
     color: #8D5CF6;
     flex-wrap: nowrap;
     font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.2px;
 }
 .valuation{
     display: flex;
@@ -281,16 +309,22 @@
     font-size: 16px;
     margin: 11px 25px;
     font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.1px;
 }
 .annot_bl3{
     margin-left: 25px;
     color: #737373;
     font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
 }
 .sold1_bl3{
     display: flex;
     margin-left: 25px;
     margin-top: 10px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
 }
 .sales1_bl3{
     margin-left: 10px;
@@ -304,6 +338,8 @@
     margin: 10px 25px;
     padding: 5px 3px;
     font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.1px;
 }
 .nostock{
     color: #BDBDBD;
@@ -331,6 +367,8 @@
     background-color: white;
     padding: 10px 20px;
     font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.2px;
 }
 .col2_bl3{
     display: flex;
