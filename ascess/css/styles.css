@@ -62,7 +62,7 @@
     margin-left: 516.5px;
 }
 .but{
-    background: url("../ascess/Vector.png") 95px 20px no-repeat;
+    background: url("../images/Vector.png") 95px 20px no-repeat;
     background-color:  #FF7B52;
     width: 137px;
     height: 52px;
@@ -174,6 +174,8 @@
 }
 .img_bl2{
     border-radius: 10px;
+    width: 70px;
+    height: 75px;
 }
 .cont{
     font-size: 16px;
