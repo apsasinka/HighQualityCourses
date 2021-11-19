@@ -15,18 +15,20 @@
     margin-left: 195px;
     color: white;
     font-size: 24px;
+    font-weight: 700;
 }
 .header_menu{
     margin-top: 33px;
     margin-left: 83px;
     margin-right: 21px;
-
+    font-weight: 700;
 }
 .header_log{
     flex-direction: row;
     margin-top: 19px;
     margin-left: 240px;
     padding-right: 45px;
+    font-weight: 700;
 }
 .center{
     display: flex;
@@ -63,6 +65,7 @@
     color: white;
     margin-left: 70px;
     font-size: 14px;
+    font-weight: 700;
 }
 .link{
     color:white;
@@ -73,10 +76,12 @@
     font-size: 58px;
     line-height: 80px;
     letter-spacing: 0,2px;
+    font-weight: 700;
 }
 .main2{
     font-size: 20px;
     margin-top: 40px;
+    font-weight: 400;
 }
 .but2{
     background: #FF7B52;
@@ -84,6 +89,7 @@
     border-radius: 5px;
     color: white;
     margin: 40px 10px;
+    font-weight: 700;
 }
 .but3{
     background: #8D5CF6;
@@ -91,6 +97,7 @@
     color: white;
     border-radius: 5px;
     padding: 15px 40px;
+    font-weight: 700;
 }
 .img{
     padding-left: 22px;
@@ -118,9 +125,11 @@
 .pract{
     font-size: 14px;
     color: #8D5CF6;
+    font-weight: 700;
 }
 .our{
    font-size: 40px;
+   font-weight: 700;
 }
 .prob{
     font-size: 14px;
@@ -148,6 +157,7 @@
     font-size: 16px;
     color: #252B42;
     margin: 20px 0px;
+    font-weight: 700;
 }
 .annot{
     font-size: 14px;
@@ -223,6 +233,7 @@
     margin-right: 161px;
     background-color: #E74040;
     border-radius: 3px;
+    font-weight: 700;
 }
 .prod_bl3{
     display: flex;
@@ -246,6 +257,7 @@
     height: 26px;
     color: #8D5CF6;
     flex-wrap: nowrap;
+    font-weight: 700;
 }
 .valuation{
     display: flex;
@@ -268,6 +280,7 @@
     color: #252B42;
     font-size: 16px;
     margin: 11px 25px;
+    font-weight: 700;
 }
 .annot_bl3{
     margin-left: 25px;
@@ -283,21 +296,25 @@
     margin-left: 10px;
     color: #737373;
     font-size: 14px;
+    font-weight: 700;
 }
 .prise_bl3{
     display: flex;
     flex-direction: row;
     margin: 10px 25px;
     padding: 5px 3px;
+    font-weight: 700;
 }
 .nostock{
     color: #BDBDBD;
     font-size: 16px;
     margin-right: 5px;
+    font-weight: 700;
 }
 .stock{
     color: #FF7B52;
     font-size: 16px;
+    font-weight: 700;
 }
 .but_bl3{
     display: flex;
@@ -313,6 +330,7 @@
     font-size: 14px;
     background-color: white;
     padding: 10px 20px;
+    font-weight: 700;
 }
 .col2_bl3{
     display: flex;
@@ -332,4 +350,5 @@
     height: 24px;
     color: #8D5CF6;
     flex-wrap: nowrap;
+    font-weight: 700;
 }
