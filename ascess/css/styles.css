@@ -15,18 +15,26 @@
     margin-left: 195px;
     color: white;
     font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0.1px;
+    line-height: 32px;
 }
 .header_menu{
     margin-top: 33px;
     margin-left: 83px;
     margin-right: 21px;
-
+    font-weight: 700;
+    letter-spacing: 0.1px;
+    line-height: 24px;
 }
 .header_log{
     flex-direction: row;
     margin-top: 19px;
     margin-left: 240px;
     padding-right: 45px;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    line-height: 22px;
 }
 .center{
     display: flex;
@@ -35,6 +43,7 @@
     align-items: center;
     margin-top: 320px;
     color: white;
+    text-align: center;
 }
 .footer{
     display: flex;
@@ -48,13 +57,15 @@
     font-family: Montserrat;
     font-size: 14px;
     line-height: 24px;
+    text-align: center;
 }
 .images{
     margin-top: 25px;
     margin-left: 516.5px;
 }
 .but{
-    background:  #FF7B52;
+    background: url("../images/Vector.png") 95px 20px no-repeat;
+    background-color:  #FF7B52;
     width: 137px;
     height: 52px;
     padding: 15px 25px;
@@ -63,6 +74,7 @@
     color: white;
     margin-left: 70px;
     font-size: 14px;
+    font-weight: 700;
 }
 .link{
     color:white;
@@ -73,10 +85,16 @@
     font-size: 58px;
     line-height: 80px;
     letter-spacing: 0,2px;
+    font-weight: 700;
+    line-height: 80px;
+    letter-spacing: 0.2px;
 }
 .main2{
     font-size: 20px;
     margin-top: 40px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.2px;
 }
 .but2{
     background: #FF7B52;
@@ -84,6 +102,9 @@
     border-radius: 5px;
     color: white;
     margin: 40px 10px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0.2px;
 }
 .but3{
     background: #8D5CF6;
@@ -91,6 +112,9 @@
     color: white;
     border-radius: 5px;
     padding: 15px 40px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0.2px;
 }
 .img{
     padding-left: 22px;
@@ -118,12 +142,21 @@
 .pract{
     font-size: 14px;
     color: #8D5CF6;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.2px;
 }
 .our{
    font-size: 40px;
+   font-weight: 700;
+   line-height: 50px;
+   letter-spacing: 0.2px;
+   line-height: 20px;
 }
 .prob{
     font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
 }
 .marg{
     margin-top: 10px;
@@ -143,17 +176,23 @@
 }
 .img_bl2{
     border-radius: 10px;
+    width: 70px;
+    height: 75px;
 }
 .cont{
     font-size: 16px;
     color: #252B42;
     margin: 20px 0px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.1px;
 }
 .annot{
     font-size: 14px;
     color: #737373;
     margin-top: 20px;
     line-height: 20px;
+    letter-spacing: 0.2px;
 }
 .card2{
     margin-top: 118px;
@@ -214,7 +253,7 @@
 .fixed_bl3{
     width: 238px;
     height: 300px;
-    background-image: url("ascess/col1.png");
+    background-image: url("ascess/back_col1.png");
     background-color: #8D5CF6;
 }
 .sale_bl3{
@@ -223,6 +262,9 @@
     margin-right: 161px;
     background-color: #E74040;
     border-radius: 3px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.2px;
 }
 .prod_bl3{
     display: flex;
@@ -245,6 +287,10 @@
     width: 182px;
     height: 26px;
     color: #8D5CF6;
+    flex-wrap: nowrap;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.2px;
 }
 .valuation{
     display: flex;
@@ -267,25 +313,85 @@
     color: #252B42;
     font-size: 16px;
     margin: 11px 25px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.1px;
 }
 .annot_bl3{
     margin-left: 25px;
     color: #737373;
     font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
 }
 .sold1_bl3{
     display: flex;
     margin-left: 25px;
     margin-top: 10px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
 }
 .sales1_bl3{
     margin-left: 10px;
     color: #737373;
     font-size: 14px;
+    font-weight: 700;
 }
 .prise_bl3{
     display: flex;
     flex-direction: row;
-    margin: 25px 10px;
+    margin: 10px 25px;
     padding: 5px 3px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+}
+.nostock{
+    color: #BDBDBD;
+    font-size: 16px;
+    margin-right: 5px;
+    font-weight: 700;
+}
+.stock{
+    color: #FF7B52;
+    font-size: 16px;
+    font-weight: 700;
+}
+.but_bl3{
+    display: flex;
+    flex-direction: row;
+    margin: 15px 25px;
+    align-items: center;
+    
+}
+.button_bl3{
+    border-radius: 37px;
+    border: 1px solid #8D5CF6;
+    color: #8D5CF6;
+    font-size: 14px;
+    background-color: white;
+    padding: 10px 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+}
+.col2_bl3{
+    display: flex;
+    width: 238px;
+    height: 602px;
+    background-color: white;
+    flex-direction: column;
+    margin-left: 30px;
+}
+.title3_bl3{
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+    margin-left: 25px;
+    font-size: 14px;
+    width: 126px;
+    height: 24px;
+    color: #8D5CF6;
+    flex-wrap: nowrap;
+    font-weight: 700;
 }
